@@ -1,4 +1,4 @@
-# Projetos com JavaScript
+# Projetos com HTML e CSS
 
 Desenvolvi o repositório para poder estudar de modo mais avançado versionamento através do git e também para melhoria de visualização de todos os projetos que foram desenvolvidos ao longo do tempo.
 
